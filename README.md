@@ -69,18 +69,6 @@ Documentação da minha evolução técnica em linguagem C:
 
 ---
 
-## Portfólio
-**Acesse meu site:**  
-https://sites.google.com/view/portifolio-dev/p%C3%A1gina-inicial
-
-**Veja minha apresentação profissional:**  
-https://docs.google.com/presentation/d/1Z2GWLbmGgnfagylWqHRctnM849YZ1W-N/edit
-
-**Veja meu plano de implantação:**  
-https://docs.google.com/document/d/1KJR4GziUgOID31VFtHm6D23fdlH1f7woygoiqUgKUtk/edit?usp=drive_link
-
----
-
 ## Habilidades e Tecnologias
 
 ### Matriz de Competências
@@ -108,27 +96,6 @@ https://docs.google.com/document/d/1KJR4GziUgOID31VFtHm6D23fdlH1f7woygoiqUgKUtk/
   <img alt="Photoshop" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" />
   <img alt="Illustrator" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" />
   <img alt="Blender" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" />
-</p>
-
----
-
-## Conecte-se comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-cotts-dos-anjos-a167193b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/Cerol_Acerola/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:gabrielcotts1444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.youtube.com/@GabrielCottsDosAnjos" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
-
----
-
-## Status do GitHub
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrielcotts&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas de Gabriel">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabrielcotts&theme=dark" alt="Gabriel Cotts Streak">
 </p>
 
 ---
