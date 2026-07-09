@@ -1,105 +1,338 @@
 # Portfólio
 
 ## Sobre Mim
-Atualmente graduando em **Engenharia de Software** pelo UniCeub e aspirante a **Desenvolvedor Full Stack**. Sou um entusiasta da tecnologia, com foco no desenvolvimento de soluções eficientes, organização de código e construção de arquiteturas sólidas, principalmente no ecossistema **Java**.
+
+Olá! Sou **Gabriel Cotts**, sigo cursando em **Engenharia de Software** pelo **Centro Universitário de Brasília (UniCEUB)** e aspirante a **Desenvolvedor Full Stack**.
+
+Sou apaixonado por tecnologia e estou construindo uma base sólida em desenvolvimento de software, banco de dados, automação e Inteligência Artificial aplicada ao desenvolvimento. Acredito que aprender vai além da teoria, por isso documento minha evolução através de projetos práticos, estudos, documentações técnicas e aplicações disponíveis no GitHub.
+
+Meu principal foco atualmente está no ecossistema **Java**, sem deixar de evoluir continuamente em outras tecnologias que complementam minha formação.
 
 ---
 
-## Objetivo
-Busco minha primeira oportunidade na área de tecnologia como estagiário, com foco em desenvolvimento de software. Tenho interesse em atuar como desenvolvedor Full Stack em um futuro próximo e estou constantemente evoluindo minhas habilidades para construir soluções completas e eficientes.
+# Objetivo
+
+Busco minha primeira oportunidade como **Estagiário em Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções de qualidade.
+
+Tenho como objetivo evoluir profissionalmente para atuar como **Desenvolvedor Full Stack**, combinando boas práticas de engenharia de software, programação, banco de dados, automação e Inteligência Artificial.
 
 ---
 
-## Formação & Experiência
-* **Bacharelado em Engenharia de Software** - UniCeub (Cursando).
-* **Temper Engenharia** - Gestão administrativa, apoio em processos e organização, controle de documentos, almoxarifado, lançamento de dados e uso de ferramentas administrativas.
-* **Supremo Fogão** - Gestão de caixa e estoque, atendimento ao cliente, organização de processos internos e controle operacional.
+# Formação & Experiência
+
+## Formação Acadêmica
+
+**Bacharelado em Engenharia de Software**  
+Centro Universitário de Brasília (UniCEUB) — **Cursando**
+
+Durante a graduação venho desenvolvendo conhecimentos em:
+
+- Programação
+- Banco de Dados
+- Engenharia de Software
+- Modelagem de Sistemas
+- Arquitetura de Software
+- Engenharia de Requisitos
+- Testes de Software
 
 ---
 
-## Projetos e Estudos
+## Experiência Profissional
 
-### Java
-* Lógica de programação com controle de fluxo, loops (`for`/`while`) e tratamento de exceções simples.
-* Estruturas de dados com arrays unidimensionais e multidimensionais (matrizes).
-* POO com modelagem de classes, atributos e métodos.
+### Temper Engenharia
 
-**Projetos desenvolvidos:**
-- Sistema bancário com operações de depósito, saque e consulta de saldo
-- Sistema de login com validação de dados
-- Sistema de cálculo de média de alunos
-- Simulação de controle de produtos com POO
+Atuação em atividades administrativas e operacionais, incluindo:
 
-### C
-Documentação da minha evolução técnica em linguagem C:
+- Gestão documental;
+- Controle de almoxarifado;
+- Organização de processos internos;
+- Lançamento e controle de dados;
+- Apoio administrativo;
+- Utilização de ferramentas corporativas.
 
-* Programação estruturada com condicionais, loops e funções.
-* Ponteiros e manipulação de memória.
-* Entrada e saída de dados com `scanf` e `printf`.
-* Leitura e escrita de arquivos com `fopen`, `fprintf` e `fscanf`.
-* Desenvolvimento de programas interativos com menus e validação de dados.
+### Supremo Fogão
 
-**Projetos desenvolvidos:**
-- Calculadora com menu interativo
-- Simulador de caixa eletrônico
-- Sistema de leitura e escrita em arquivos
+Experiência em:
 
-### Banco de Dados / MySQL
-* Modelagem relacional de dados.
-* Consultas SQL e manipulação de registros.
-* CRUD e relacionamento entre tabelas.
-* Organização e estruturação de banco de dados.
-
-### Engenharia de Software
-* Noções de UML, requisitos e arquitetura de software.
-* Organização de projetos com foco em manutenção e clareza.
-* Planejamento e documentação de soluções.
-
-### Automação com n8n
-* Criação de fluxos automatizados.
-* Integração de serviços e manipulação de dados.
-* Desenvolvimento de chat automatizado com fluxo de mensagens.
-
-### Design e Apresentações
-* Photoshop
-* Illustrator
-* Blender
-* Canva
-* PowerPoint
+- Atendimento ao cliente;
+- Operação de caixa;
+- Controle de estoque;
+- Organização operacional;
+- Suporte às atividades internas.
 
 ---
 
-## Habilidades e Tecnologias
+# Competências Desenvolvidas
 
-### Matriz de Competências
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Desenvolvimento** | Java, C, Git, GitHub, IntelliJ IDEA |
-| **Banco de Dados** | MySQL, SQL, modelagem relacional, CRUD |
-| **Engenharia de Software** | UML, requisitos, organização de projetos |
-| **Automação** | n8n, workflows, integração de APIs |
-| **Design & 3D** | Photoshop, Illustrator, Blender, Canva, PowerPoint |
-| **Corporativo** | Pacote Office, Excel Intermediário, gestão de dados |
-| **Idiomas** | Inglês (Intermediário) e Espanhol (Básico) |
+##  Java
+
+Minha principal linguagem de desenvolvimento.
+
+### Conhecimentos
+
+- Lógica de programação
+- Estruturas condicionais
+- Estruturas de repetição
+- Arrays e matrizes
+- Métodos
+- Programação Orientada a Objetos
+- Encapsulamento
+- Construtores
+- Associação entre objetos
+- Métodos e atributos estáticos
+- Blocos de inicialização
+- Organização em pacotes
+- Clean Code e boas práticas
+
+### Projetos desenvolvidos
+
+- Sistema Bancário
+- Sistema de Login
+- Cadastro de Produtos
+- Sistema de Funcionários
+- Sistema de Média Escolar
+- Controle de Temperaturas
+- Controle de Vendas
+- Sistema Academia
+- Sistema Biblioteca
+- Sistema Jogador × Time
+- Projeto Anime
+- Sistema Veículo
+- Quiz em Java
 
 ---
 
-### Visualização
+##  Linguagem C
+
+Linguagem utilizada para consolidar minha base em programação.
+
+### Conhecimentos
+
+- Programação estruturada
+- Tipos de dados
+- Operadores
+- Condicionais
+- Estruturas de repetição
+- Vetores
+- Matrizes
+- Strings
+- Structs
+- Modularização
+- Ponteiros
+- Manipulação de memória
+- Manipulação de arquivos
+- Organização e legibilidade de código
+
+### Projetos desenvolvidos
+
+- Calculadora
+- Caixa Eletrônico
+- Sistema de Arquivos
+- Quiz em C
+
+---
+
+##  Banco de Dados | MySQL
+
+### Conhecimentos
+
+- Modelagem Conceitual, Lógica e Física
+- MER e DER
+- Cardinalidade
+- Normalização (1FN, 2FN e 3FN)
+- SQL
+- DDL, DML e DQL
+- CRUD
+- Relacionamentos
+- Chaves Primárias e Estrangeiras
+- ALTER TABLE
+- Backup e restauração
+- MySQL Workbench
+
+### Projetos desenvolvidos
+
+- Sistema Cadastro
+- Biblioteca
+- Academia
+- Cursos
+- Clínica Médica
+- Delivery
+- Faculdade
+- Modelagem de banco baseada em dados do IBGE
+
+---
+
+##  Inteligência Artificial aplicada ao Desenvolvimento
+
+Curso concluído com certificado pela plataforma **GitHub**.
+
+### Competências desenvolvidas
+
+- GitHub Copilot
+- GitHub Models
+- GitHub Codespaces
+- GitHub Actions
+- Engenharia de Prompts
+- IA Generativa
+- Responsible AI
+- Desenvolvimento assistido por IA
+- Automação de tarefas
+- Boas práticas para utilização de IA no desenvolvimento de software
+
+---
+
+##  Automação com n8n
+
+### Conhecimentos
+
+- Construção de workflows
+- Automação de processos
+- Integração entre serviços
+- Manipulação de dados
+- APIs
+- Desenvolvimento de chatbot automatizado
+
+---
+
+##  Engenharia de Software
+
+### Conhecimentos
+
+- Engenharia de Requisitos
+- Requisitos Funcionais e Não Funcionais
+- UML
+- Casos de Uso
+- Diagramas de Classes
+- Diagramas de Sequência
+- Arquitetura de Software
+- Prototipação
+- Plano de Testes
+- Backlog Ágil
+- Documentação Técnica
+
+### Projeto desenvolvido
+
+**Sistema de Gestão de Estágios — Instituição Florence**
+
+Projeto acadêmico contendo:
+
+- Levantamento de requisitos;
+- Diagramas UML;
+- Protótipos no Figma;
+- Arquitetura da solução;
+- Plano de testes;
+- Backlog do projeto;
+- Documentação técnica;
+- Apresentação final.
+
+---
+
+##  Git & GitHub
+
+Além do versionamento, utilizo o GitHub como plataforma para organização dos meus estudos e apresentação do meu portfólio.
+
+### Conhecimentos
+
+- Git
+- GitHub
+- Versionamento de código
+- Organização de repositórios
+- README profissional
+- GitHub Pages
+- Badges e estatísticas
+- Documentação técnica
+- Publicação de projetos
+
+---
+
+##  Google Workspace
+
+Conhecimentos adquiridos durante o desenvolvimento do meu portfólio.
+
+### Ferramentas
+
+- Google Sites
+- Google Docs
+- Google Slides
+- Google Drive
+
+Aplicações práticas
+
+- Desenvolvimento do site do portfólio;
+- Produção de documentação técnica;
+- Criação de apresentações;
+- Organização de projetos.
+
+---
+
+##  Design
+
+Ferramentas utilizadas para produção de materiais gráficos, apresentações e conteúdos digitais.
+
+- Photoshop
+- Illustrator
+- Blender
+- Canva
+- PowerPoint
+- CapCut
+
+---
+
+##  Conhecimentos Complementares
+
+- Portas Lógicas
+- Álgebra Booleana
+- Lógica Digital
+- Organização de Computadores
+- Pacote Office
+- Excel Intermediário
+
+---
+
+# Atualmente Estudando
+
+Continuo ampliando meus conhecimentos nas seguintes áreas:
+
+- Python
+- Power BI
+- Desenvolvimento Full Stack
+- Inteligência Artificial aplicada ao desenvolvimento
+- Inglês
+
+---
+
+# Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+|:--|:--|
+| **Linguagens** | Java, C, SQL |
+| **Banco de Dados** | MySQL |
+| **Versionamento** | Git, GitHub |
+| **Automação** | n8n |
+| **IA** | GitHub Copilot, GitHub Models, GitHub Actions, GitHub Codespaces |
+| **Engenharia de Software** | UML, Engenharia de Requisitos, Arquitetura, Testes |
+| **Design** | Photoshop, Illustrator, Blender, Canva, PowerPoint, CapCut |
+| **Google Workspace** | Sites, Docs, Slides e Drive |
+| **Em aprendizado** | Python, Power BI |
+| **Idiomas** | Inglês (Intermediário), Espanhol (Básico) |
+
+---
+
+# Projetos e Documentações
+
+Durante minha formação venho documentando minha evolução através de projetos acadêmicos e pessoais publicados no GitHub, incluindo:
+
+- Sistemas desenvolvidos em Java;
+- Exercícios e aplicações em Linguagem C;
+- Modelagem e implementação de bancos de dados em MySQL;
+- Projetos de Engenharia de Software;
+- Fluxos de automação utilizando n8n;
+- Estudos sobre Inteligência Artificial aplicada ao desenvolvimento;
+- Documentações técnicas e READMEs profissionais;
+- Desenvolvimento e publicação do meu site de portfólio utilizando Google Sites e GitHub Pages.
+
+---
 
 <p align="center">
-  <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="C" height="50" src="https://static.vecteezy.com/system/resources/thumbnails/048/332/147/small/c-programming-icon-free-png.png" />
-  <img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img alt="n8n" height="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" />
-  <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img alt="IntelliJ" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
-  <img alt="Photoshop" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" />
-  <img alt="Illustrator" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" />
-  <img alt="Blender" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" />
-</p>
-
----
-
-<p align="center">
-  Desenvolvido com ☕ por Gabriel Cotts
+Desenvolvido por <strong>Gabriel Cotts</strong> ☕
 </p>
