@@ -235,7 +235,7 @@ Além do versionamento, utilizo o GitHub como plataforma para organização dos 
 - GitHub
 - Versionamento de código
 - Organização de repositórios
-- README profissional
+- README
 - GitHub Pages
 - Badges e estatísticas
 - Documentação técnica
@@ -279,6 +279,13 @@ Ferramentas utilizadas para produção de materiais gráficos, apresentações e
 ##  Conhecimentos Complementares
 
 - Portas Lógicas
+- Sistemas Numéricos
+- Arquitetura e Organização de Computadores
+- Filosofias de Projeto (RISC vs. CISC)
+- Eficiência e Funcionamento Interno
+- Armazenamento e Segurança (RAID 0, 1, 5, 6 e 10)
+- Segurança da Informação (Tríade CID)
+- Computação em Nuvem
 - Álgebra Booleana
 - Lógica Digital
 - Organização de Computadores
@@ -291,10 +298,15 @@ Ferramentas utilizadas para produção de materiais gráficos, apresentações e
 
 Continuo ampliando meus conhecimentos nas seguintes áreas:
 
+- Java
+- Spring Boot
+- Docker
+- MySQL
 - Python
 - Power BI
 - Desenvolvimento Full Stack
 - Inteligência Artificial aplicada ao desenvolvimento
+- C
 - Inglês
 
 ---
@@ -311,7 +323,7 @@ Continuo ampliando meus conhecimentos nas seguintes áreas:
 | **Engenharia de Software** | UML, Engenharia de Requisitos, Arquitetura, Testes |
 | **Design** | Photoshop, Illustrator, Blender, Canva, PowerPoint, CapCut |
 | **Google Workspace** | Sites, Docs, Slides e Drive |
-| **Em aprendizado** | Python, Power BI |
+| **Em aprendizado** | Python, Power BI, Docker, Spring Boot, inglês |
 | **Idiomas** | Inglês (Intermediário), Espanhol (Básico) |
 
 ---
@@ -320,13 +332,12 @@ Continuo ampliando meus conhecimentos nas seguintes áreas:
 
 Durante minha formação venho documentando minha evolução através de projetos acadêmicos e pessoais publicados no GitHub, incluindo:
 
-- Sistemas desenvolvidos em Java;
+- Projetos desenvolvidos em Java;
 - Exercícios e aplicações em Linguagem C;
 - Modelagem e implementação de bancos de dados em MySQL;
 - Projetos de Engenharia de Software;
-- Fluxos de automação utilizando n8n;
 - Estudos sobre Inteligência Artificial aplicada ao desenvolvimento;
-- Documentações técnicas e READMEs profissionais;
+- Documentações técnicas e READMEs;
 - Desenvolvimento e publicação do meu site de portfólio utilizando Google Sites e GitHub Pages.
 
 ---
