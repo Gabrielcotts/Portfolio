@@ -48,6 +48,7 @@ Atuação em atividades administrativas e operacionais, incluindo:
 - Organização de processos internos;
 - Lançamento e controle de dados;
 - Apoio administrativo;
+- Busca por licitações.
 - Utilização de ferramentas corporativas.
 
 ### Supremo Fogão
@@ -86,20 +87,19 @@ Minha principal linguagem de desenvolvimento.
 
 ### Projetos desenvolvidos
 
-- Sistema Bancário
-- Sistema de Login
-- Cadastro de Produtos
-- Sistema de Funcionários
-- Sistema de Média Escolar
-- Controle de Temperaturas
+- Aplicação Bancária (POO)
+- Sistema de Autenticação/Login
+- Gerenciador de Produtos
+- Gerenciador de Funcionários
+- Calculadora de Média Escolar
+- Monitoramento de Temperaturas
 - Controle de Vendas
-- Sistema Academia
-- Sistema Biblioteca
-- Sistema Jogador × Time
-- Projeto Anime
-- Sistema Veículo
-- Quiz em Java
-
+- Simulador de Academia
+- Biblioteca Digital
+- Associação Jogador × Time
+- Projeto Anime (POO)
+- Gerenciador de Veículos
+  
 ---
 
 ##  Linguagem C
@@ -164,7 +164,7 @@ Linguagem utilizada para consolidar minha base em programação.
 
 ##  Inteligência Artificial aplicada ao Desenvolvimento
 
-Curso concluído com certificado pela plataforma **GitHub**.
+Curso concluído com certificado pela plataforma **Fundação Bradesco/Microsoft**.
 
 ### Competências desenvolvidas
 
@@ -186,10 +186,8 @@ Curso concluído com certificado pela plataforma **GitHub**.
 ### Conhecimentos
 
 - Construção de workflows
-- Automação de processos
 - Integração entre serviços
 - Manipulação de dados
-- APIs
 - Desenvolvimento de chatbot automatizado
 
 ---
