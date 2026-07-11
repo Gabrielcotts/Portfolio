@@ -4,7 +4,7 @@
 
 Olá! Sou **Gabriel Cotts**, sigo cursando em **Engenharia de Software** pelo **Centro Universitário de Brasília (UniCEUB)** e aspirante a **Desenvolvedor Full Stack**.
 
-Sou apaixonado por tecnologia e estou construindo uma base sólida em desenvolvimento de software, banco de dados, automação e Inteligência Artificial aplicada ao desenvolvimento. Acredito que aprender vai além da teoria, por isso documento minha evolução através de projetos práticos, estudos, documentações técnicas e aplicações disponíveis no GitHub.
+Sou apaixonado por tecnologia e estou construindo uma base sólida em desenvolvimento de software, banco de dados, automação e Ferramentas de Inteligência Artificial para Desenvolvimento. Acredito que aprender vai além da teoria, por isso documento minha evolução através de projetos práticos, estudos, documentações técnicas e aplicações disponíveis no GitHub.
 
 Meu principal foco atualmente está no ecossistema **Java**, sem deixar de evoluir continuamente em outras tecnologias que complementam minha formação.
 
@@ -31,9 +31,9 @@ Durante a graduação venho desenvolvendo conhecimentos em:
 - Banco de Dados
 - Engenharia de Software
 - Modelagem de Sistemas
-- Arquitetura de Software
+- Fundamentos de Arquitetura de Software
 - Engenharia de Requisitos
-- Testes de Software
+- Fundamentos de Testes de Software
 
 ---
 
@@ -301,6 +301,9 @@ Continuo ampliando meus conhecimentos nas seguintes áreas:
 - Java
 - Spring Boot
 - Docker
+- Spring Framework
+- APIs REST
+- Maven
 - MySQL
 - Python
 - Power BI
