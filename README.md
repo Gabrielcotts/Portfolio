@@ -299,17 +299,12 @@ Ferramentas utilizadas para produção de materiais gráficos, apresentações e
 Continuo ampliando meus conhecimentos nas seguintes áreas:
 
 - Java
-- Spring Boot
-- Docker
-- Spring Framework
-- APIs REST
-- Maven
 - MySQL
-- Python
-- Power BI
+- HTML
+- CSS
+- JavaScript
 - Desenvolvimento Full Stack
 - Inteligência Artificial aplicada ao desenvolvimento
-- C
 - Inglês
 
 ---
